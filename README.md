@@ -1,2 +1,2 @@
 # php course
- Proect for learning more about PHP 
+ Projects for learning more about PHP 
